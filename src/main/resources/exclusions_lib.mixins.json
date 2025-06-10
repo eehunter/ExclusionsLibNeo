@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "com.oyosite.ticon.exclusionslibneo.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "exclusionslib.refmap.json",
+  "refmap": "exclusions_lib.refmap.json",
   "mixins": [
     "TagEntryMixin",
     "TagLoaderMixin"

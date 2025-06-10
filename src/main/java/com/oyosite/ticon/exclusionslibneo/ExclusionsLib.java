@@ -16,7 +16,7 @@ import org.slf4j.Logger;
 @Mod(ExclusionsLib.MODID)
 public class ExclusionsLib {
     // Define mod id in a common place for everything to reference
-    public static final String MODID = "exclusionslib";
+    public static final String MODID = "exclusions_lib";
     // Directly reference a slf4j logger
     public static final Logger LOGGER = LogUtils.getLogger();
 
